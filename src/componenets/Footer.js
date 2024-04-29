@@ -41,7 +41,7 @@ const Footer = () => {
              <span className=" text-footerText text-xs font-normal font-opensans  border-r-[1px] border-footerText px-6 ">Legal</span>
 
              </div>
-             <div className="downright ">
+             <div className="downright">
                 <h1  className="font-opensans font-normal text-xs text-footerText"> Design with love ©JalebiDesignStudio 2023 All right reserved</h1>
 
              </div>
