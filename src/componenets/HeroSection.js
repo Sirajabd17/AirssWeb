@@ -10,7 +10,7 @@ const HeroSection = () => {
               {" "}
               Where Fitness & Speed Skating is life.
             </h1>
-            <p className=" font-semibold font-source text-4xl my-8  ">
+            <p className=" font-semibold font-source text-4xl my-8 ">
               {" "}
               Welcome to the neighbourhood's toughest Airss academy.
             </p>
